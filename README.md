@@ -45,7 +45,7 @@ https://github.com/bahati7/profile-card-component-main/blob/main/design/mobile-d
 
 ### What I learned
 
-In this challenge I learned how to work with multiple background images
+In this challenge I discovered how to work with multiple background images
 
 ```html
 body{
